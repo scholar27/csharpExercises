@@ -1,0 +1,144 @@
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe.config
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.pdb
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.pdb
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form1.resources
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Properties.Resources.resources
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.GenerateResource.cache
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CoreCompileInputs.cache
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CopyComplete
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.exe
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.pdb
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form2.resources
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.AssemblyReference.cache
+H:\SAE\Jahr 3\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.SuggestedBindingRedirects.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe.config
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.pdb
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.pdb
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.AssemblyReference.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.SuggestedBindingRedirects.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form1.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form2.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Properties.Resources.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.GenerateResource.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CoreCompileInputs.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CopyComplete
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.exe
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.pdb
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form3.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form4.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe.config
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.pdb
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.pdb
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.AssemblyReference.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.SuggestedBindingRedirects.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form1.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form2.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form3.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form4.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Properties.Resources.resources
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.GenerateResource.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CoreCompileInputs.cache
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CopyComplete
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.exe
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.pdb
+D:\Dokumente\Privat\Ausbildung\Ausbildung Ondics\BS Mesk\SAE_ITS\3_Schuljahr\Projektarbeit\LBT_Projekt\Kundenverwaltung-Kopie\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form5.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe.config
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.exe
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\Kundenverwaltung.pdb
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\Google.Protobuf.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\MySql.Data.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Buffers.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Memory.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.AssemblyReference.cache
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form1.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form2.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form3.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form4.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Form5.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.Properties.Resources.resources
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.GenerateResource.cache
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.csproj.CopyComplete
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.exe
+C:\Users\Eileen Andert\Documents\Kundenverwaltung\Kundenverwaltung\obj\Debug\Kundenverwaltung.pdb
